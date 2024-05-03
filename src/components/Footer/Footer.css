@@ -1,0 +1,35 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+ul {
+    padding: 0;
+}
+
+
+/* Social Media Icons */
+
+/* .social-media {
+    display: flex;
+    justify-content: end;
+} */
+
+.social-media li {
+    margin-right: 20px;
+    font-size: 25px;
+}
+
+.social-media li:last-child {
+    margin-right: 0;
+}
+
+/* contact-info */
+
+.contact-info li {
+    margin-right: 20px;
+}
+
+.contact-info li:last-child {
+    margin-right: 0;
+}

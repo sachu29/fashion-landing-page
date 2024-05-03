@@ -1,0 +1,16 @@
+.navbar .nav-item .nav-link, .navbar-brand {
+    color: white;
+    margin-left: 15px;
+}
+
+.nav-link {
+    margin-left: 20px;
+}
+
+.navbar-toggler {
+    filter: invert(1);
+}
+
+.navbar-nav {
+    z-index: 1000qnpm;
+}
